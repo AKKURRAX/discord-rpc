@@ -1,0 +1,16 @@
+{
+  "name": "rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nexe index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "nexe": "^4.0.0-beta.18"
+  }
+}
