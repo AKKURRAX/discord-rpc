@@ -1,7 +1,7 @@
 const rpc = require('discord-rpc');
 
 const config = {
-	appId: "850660876315000852", 
+	appId: "l'id de ton app discord", 
 
 	details: "En ligne 🟢", 
 	largeImageKeyName: "large-image-key", 
